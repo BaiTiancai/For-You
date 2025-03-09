@@ -1,0 +1,41 @@
+[{
+    "name": "经济危机",
+    "stock": 80,
+    "sales": 20
+}, {
+    "name": "抑郁障碍（精神疾病）",
+    "stock": 54,
+    "sales": 42
+}, {
+    "name": "两性问题",
+    "stock": 82,
+    "sales": 18
+}, {
+    "name": "争论",
+    "stock": 88,
+    "sales": 12
+}, {
+    "name": "身体健康",
+    "stock": 79,
+    "sales": 11
+}, {
+    "name": "人际关系紧张",
+    "stock": 67,
+    "sales": 33
+}, {
+    "name": "成长环境不良",
+    "stock": 76,
+    "sales": 24
+}, {
+    "name": "天灾人祸",
+    "stock": 80,
+    "sales": 20
+}, {
+    "name": "宗教影响",
+    "stock": 85,
+    "sales": 15
+}, {
+    "name": "事业或者学业受挫",
+    "stock": 66,
+    "sales": 34
+}]
